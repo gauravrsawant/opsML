@@ -3,7 +3,7 @@ name: Continuous Integration
 on:
   push:
     branches:
-      - feature-branch
+      - feature
 
 jobs:
   test:
